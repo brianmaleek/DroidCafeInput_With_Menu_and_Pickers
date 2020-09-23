@@ -19,4 +19,17 @@
     <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
     <string name="froyo_order_message">You ordered a FroYo.</string>
     <string name="order_textView">OrderView</string>
+    <string name="name_label">Name</string>
+    <string name="enter_name_hint">enter_name_hint</string>
+    <string name="Enter_your_name">Enter your name</string>
+    <string name="address_label_text">Address</string>
+    <string name="Enter_address_hint"> Enter Address</string>
+    <string name="phone">Phone</string>
+    <string name="enter_phone_hint">Enter Phone</string>
+    <string name="note_label">Note</string>
+    <string name="enter_note_hint">Note</string>
+    <string name="choose_a_delivery_method">Choose a delivery method:</string>
+    <string name="sameday">Same day messenger service</string>
+    <string name="nextday">Next day ground delivery</string>
+    <string name="pick_up">Pick up</string>
 </resources>
