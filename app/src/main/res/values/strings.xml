@@ -32,6 +32,15 @@
     <string name="sameday">Same day messenger service</string>
     <string name="nextday">Next day ground delivery</string>
     <string name="pick_up">Pick up</string>
+    <string name="action_contact">Contact</string>
+    <string name="action_order">Order</string>
+    <string name="action_status">Status</string>
+    <string name="action_favourites">Favourites</string>
+
+    <string name="action_order_message">You selected Order</string>
+    <string name="action_status_message">You selected Status</string>
+    <string name="action_favourites_message">You selected Favourites</string>
+    <string name="action_contact_message">You selected Contact</string>
 
     <!-- Spinner array-->
     <string-array name="labels_array">
